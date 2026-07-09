@@ -1,0 +1,16 @@
+# НИКОГДА не коммитить: коды домофонов и хеши паролей
+data/
+config/
+*.tmp
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Редакторы и ОС
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
